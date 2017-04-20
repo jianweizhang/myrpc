@@ -1,4 +1,4 @@
-package net.zhangjw.myrpc.test.Server;
+package net.zhangjw.myrpc.test.server;
 
 import net.zhangjw.myrpc.test.interfance.UserService;
 import net.zhangjw.myrpc.test.interfance.User;

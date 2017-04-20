@@ -1,4 +1,4 @@
-package net.zhangjw.myrpc.test.Server.boot;
+package net.zhangjw.myrpc.test.server.boot;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

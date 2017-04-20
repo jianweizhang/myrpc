@@ -10,7 +10,7 @@
 
 
     <!--注册接口实现类-->
-    <bean id="userService" class="net.zhangjw.myrpc.test.Server.UserServiceImpl" />
+    <bean id="userService" class="net.zhangjw.myrpc.test.server.UserServiceImpl" />
     <bean class="net.zhangjw.myrpc.spring.support.ServiceRegistery">
         <property name="interfance" value="net.zhangjw.myrpc.test.interfance.UserService" />
         <property name="providerImpl" ref="userService" />
